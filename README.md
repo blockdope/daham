@@ -1,7 +1,7 @@
 `Update On : 2025.07.12`
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=ADD8E6&center=true&width=1000&height=200&lines=LARA-MD-BOT" alt="Typing SVG" /></a>
 <div align="center">
-	<h3>👧🏻LARA-MD WHATSAPP BOT👧🏻</h3>
+	<h3>👧🏻NIKCY-MD WHATSAPP BOT👧🏻</h3>
 <img src="https://i.ibb.co/ZRnmZw6f/20250709-134308.jpg" width="300" height="150">
 </div>
 <div align="center">
@@ -19,7 +19,7 @@
 
 <hr>
 
-			Lara-MD බොට් යනු WhatsApp සඳහා වන පරිශීලක බොට් එකක් වන අතර එමඟින් ඔබට බොහෝ කාර්යයන් ඉටු කිරීමට ඉඩ සලසයි. මෙය විවෘත මූලාශ්‍ර ව්‍යාපෘතියක් නොවේ. මෙය බොට් යන්ත්‍රයක් යෙදවීමට ඔබට ඉඩ සලසන ව්‍යාපෘතියක් පමණි
+			NIKCY-MD බොට් යනු WhatsApp සඳහා වන පරිශීලක බොට් එකක් වන අතර එමඟින් ඔබට බොහෝ කාර්යයන් ඉටු කිරීමට ඉඩ සලසයි. මෙය විවෘත මූලාශ්‍ර ව්‍යාපෘතියක් නොවේ. මෙය බොට් යන්ත්‍රයක් යෙදවීමට ඔබට ඉඩ සලසන ව්‍යාපෘතියක් පමණි
        
 <h3>🌸 How To Deploy </h3>
 
@@ -44,10 +44,10 @@
 *🌸 If you past session id in (settings.js/SESSION_ID || "past_copy_text")*
 
 <h3>🌸 Supported Group link </h3>
-<a href="https://chat.whatsapp.com/Ci5mDk9zEVF95NcuqEtzl4">Join Lara suported 👧</a>
+<a href="https://chat.whatsapp.com/JfIF7NRb3b49vBzl07p55B?mode=wwt">Join Lara suported 👧</a>
 <hr>
 <h3>🌸 Lara updates chanels </h3>
-<a href="https://whatsapp.com/channel/0029VaD5t8S1nozDfDDjRj2J">Join Lara updates chanel 👧</a>
+<a href="https://whatsapp.com/channel/0029Vb66Gnt5EjxplwkY110s">Join Lara updates chanel 👧</a>
 <hr>
 
 ***CLICK THE BUTTON BELOW TO DEPLOY🌸***
@@ -148,7 +148,7 @@ jobs:
 <hr>
 
 <div align="center">
-<h3>🌸 LARA-MD DEVELOPER TEAM 👤</h3>
+<h3>🌸 NIKCY-MD DEVELOPER TEAM 👤</h3>
 
 | SADEESHA 👤              | WISWAJITH 👤              |
 |---------------------|---------------------|
@@ -171,11 +171,11 @@ jobs:
 
 </div>
 
-<h5>Thank You For Using Lara-MD 💗</h5>
+<h5>Thank You For Using NIKCY-MD 💗</h5>
 
 <hr>
 
 <h3>⚠️ Warning!</h3>
 
-<h5>Because of user bots; Your WhatsApp account can be banned. You are responsible for everything you do. Most likely, using WhatsApp setting management commands too much may caused getting banned. Certainly, Lara-MD executives do not take responsibility. By setting up Lara-MD Bot you are considered to have assumed these responsibilities.</h5>
+<h5>Because of user bots; Your WhatsApp account can be banned. You are responsible for everything you do. Most likely, using WhatsApp setting management commands too much may caused getting banned. Certainly, NIKCY-MD executives do not take responsibility. By setting up NIKCY-MD Bot you are considered to have assumed these responsibilities.</h5>
 <hr>
